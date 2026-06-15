@@ -11,7 +11,7 @@ documentation: ug
 
 The [legend](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.ChartLegendSettings.html) provides information on the series shown in the chart.
 
-You can learn how to add legend to Blazor Charts by watching the video below.
+You can learn how to add legend to [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) by watching the video below.
 
 {% youtube "youtube:https://www.youtube.com/watch?v=mra9AP4HBPc" %}
 

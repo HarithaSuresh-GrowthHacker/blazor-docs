@@ -9,7 +9,7 @@ documentation: ug
 
 # Zooming in Blazor Charts Component
 
-You can learn how to zoom and pan in Blazor Charts by watching the video below.
+You can learn how to zoom and pan in [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) by watching the video below.
 
 {% youtube "youtube:https://www.youtube.com/watch?v=-fqwvVMI9Ec" %}
 

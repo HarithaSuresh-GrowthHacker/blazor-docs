@@ -9,7 +9,7 @@ documentation: ug
 
 # Accessibility in Blazor Chart Component
 
-The Blazor Chart component followed the accessibility guidelines and standards, including [ADA](https://www.ada.gov/), [Section 508](https://www.section508.gov/), [WCAG 2.2](https://www.w3.org/TR/WCAG22/) standards, and [WCAG roles](https://www.w3.org/TR/wai-aria/#roles) that are commonly used to evaluate accessibility.
+The [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) component followed the accessibility guidelines and standards, including [ADA](https://www.ada.gov/), [Section 508](https://www.section508.gov/), [WCAG 2.2](https://www.w3.org/TR/WCAG22/) standards, and [WCAG roles](https://www.w3.org/TR/wai-aria/#roles) that are commonly used to evaluate accessibility.
 
 The accessibility compliance for the  Blazor Chart component is outlined below.
 
@@ -90,7 +90,7 @@ The accessibility compliance of the Blazor Chart component is shown in the follo
 
 ## See also
 
-* [Accessibility in Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor components](https://blazor.syncfusion.com/documentation/common/accessibility)
+* [Accessibility in Blazor Components](https://blazor.syncfusion.com/documentation/common/accessibility)
 
-* [Accessibility Customization in Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor components](./advanced-accessibility-configuration.md)
+* [Accessibility Customization in Blazor Components](./advanced-accessibility-configuration.md)
 

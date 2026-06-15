@@ -9,7 +9,7 @@ documentation: ug
 
 # Adaptive Layout in Blazor Charts Component
 
-Adaptive layout in Blazor Charts ensures optimal display of chart elements on mobile devices and screens with limited space. By enabling the `EnableAdaptiveRendering` property, the chart automatically adjusts to container size changes, maintaining clear alignment and visibility for elements such as legend, axis titles, axis labels, data labels, chart title, and more.
+Adaptive layout in [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) ensures optimal display of chart elements on mobile devices and screens with limited space. By enabling the `EnableAdaptiveRendering` property, the chart automatically adjusts to container size changes, maintaining clear alignment and visibility for elements such as legend, axis titles, axis labels, data labels, chart title, and more.
 
 ```cshtml
 
